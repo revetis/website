@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# React / Node.js
+node_modules/
+build/
+.env
+
