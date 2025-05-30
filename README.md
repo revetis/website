@@ -1,44 +1,40 @@
-Revetis Portfolio & Blog
-Kişisel portföy ve blog projesi.
+# Revetis Portfolio & Blog
+
+Kişisel portföy ve blog projesi.  
 Modern teknolojilerle geliştirildi.
 
-Teknolojiler
-Backend: Django, Django REST Framework
+---
 
-Frontend: React
+## Teknolojiler
 
-State Management: Redux Toolkit
+- **Backend:** Django, Django REST Framework  
+- **Frontend:** React  
+- **State Management:** Redux Toolkit  
+- **Routing:** React Router  
+- **Stil:** Tailwind CSS  
+- **Çoklu Dil Desteği:** react-i18next (i18n)  
+- **API İletişimi:** Axios  
 
-Routing: React Router
+---
 
-Stil: Tailwind CSS
+## Özellikler
 
-Çoklu Dil Desteği: react-i18next (i18n)
+- Backend ve frontend ayrımı REST API ile sağlanır  
+- Hızlı, kullanıcı dostu ve responsive tasarım  
+- Çoklu dil desteği  
+- Projeler ve blog yazılarının listelenmesi, detay sayfaları  
+- Redux ile global state yönetimi  
+- React Router ile sayfa yönlendirme  
+- Tailwind CSS ile performanslı ve özelleştirilebilir stil  
+- Kolay genişletilebilir yapı  
 
-API İletişimi: Axios
+---
 
-Özellikler
-Backend ve frontend ayrımı REST API ile sağlanır
+## Kurulum
 
-Hızlı, kullanıcı dostu ve responsive tasarım
+### Backend
 
-Çoklu dil desteği
-
-Projeler ve blog yazılarının listelenmesi, detay sayfaları
-
-Redux ile global state yönetimi
-
-React Router ile sayfa yönlendirme
-
-Tailwind CSS ile performanslı ve özelleştirilebilir stil
-
-Kolay genişletilebilir yapı
-
-Kurulum
-Backend
-bash
-Kopyala
-Düzenle
+```bash
 cd backend
 python -m venv env
 # Windows:
