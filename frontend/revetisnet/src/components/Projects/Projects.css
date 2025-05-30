@@ -1,0 +1,42 @@
+.projects-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 24px 120px;
+}
+@keyframes neonPulse {
+  from {
+    box-shadow: 0 0 10px rgba(138, 43, 226, 0.3);
+  }
+  to {
+    box-shadow: 0 0 20px rgba(138, 43, 226, 0.6),
+      0 0 30px rgba(138, 43, 226, 0.4);
+  }
+}
+
+@keyframes gradientBorder {
+  0% {
+    box-shadow: 0 0 15px rgba(255, 107, 107, 0.5);
+  }
+  33% {
+    box-shadow: 0 0 15px rgba(78, 205, 196, 0.5);
+  }
+  66% {
+    box-shadow: 0 0 15px rgba(69, 183, 209, 0.5);
+  }
+  100% {
+    box-shadow: 0 0 15px rgba(255, 107, 107, 0.5);
+  }
+}
+
+@keyframes borderPulse {
+  0%,
+  100% {
+    box-shadow: 0 0 10px rgba(138, 43, 226, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(138, 43, 226, 0.7),
+      0 0 40px rgba(138, 43, 226, 0.4);
+  }
+}

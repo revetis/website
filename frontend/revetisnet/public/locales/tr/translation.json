@@ -1,0 +1,51 @@
+{
+  "Home": "Ana Sayfa",
+  "About": "Hakkımızda",
+  "Blog": "Blog",
+  "Blogs":"Bloglar",
+  "Contact": "İletişim",
+  "Pages": "Sayfalar",
+  "Contracts": "Sözleşmeler",
+  "Language": "Dil",
+  "All rights reserved.": "Tüm hakları saklıdır.",
+  "Privacy Policy": "Gizlilik Politikası",
+  "Terms of Service": "Hizmet Şartları",
+  "about": {
+    "title": "Hakkımda",
+    "intro": "Ben Revetis. Web geliştirme, oyun programlama ve yapay zeka alanlarında çalışan bir yazılımcıyım. Şu anda Python, Django, React ve TypeScript gibi teknolojilere odaklandım. Hedefim; kendi projelerimi geliştirerek özgür ve üretken bir hayat kurmak.",
+    "timeline_title": "Yolculuğum",
+    "timeline": [
+      { "date": "2024 Sonu", "text": "Python öğrenmeye başladım." },
+      { "date": "2025 Başı", "text": "Django, JavaScript, React ile projeler geliştirdim." },
+      { "date": "2025 İlkbahar", "text": "Kendi kişisel sitemi ve yapay zeka projelerini başlattım." }
+    ],
+    "skills_title": "Yetenekler"
+  },"hero": {
+    "greeting": "Merhaba, ben Revetis.",
+    "description": "Yazılım geliştiriyorum. Web, oyun ve yapay zeka üzerine çalışıyorum.",
+    "projects_button": "Projelerim"
+  }, "page_not_found": "Sayfa Bulunamadı" ,"Projects": "Projeler",
+  "unknown_error": "Bilinmeyen hata",
+  "retry": "Tekrar Dene",
+  "error": "Hata",
+  "no_projects": "Henüz proje bulunmamaktadır.",
+  "project_image": "Proje görseli",
+  "untitled_project": "Başlıksız proje",
+  "no_description": "Açıklama yok",
+  "view_project": "Projeyi Görüntüle",
+  "Details": "Detaylar",
+  "view_source": "Kaynak Kodu" ,"privacy": {
+    "title": "Gizlilik Politikası",
+    "description1": "Bu web sitesi, kullanıcı gizliliğine önem verir. Toplanan veriler yalnızca hizmeti geliştirmek için kullanılır.",
+    "description2": "Kişisel bilgiler, izniniz olmadan üçüncü şahıslarla paylaşılmaz. Verileriniz güvenli sunucularda saklanır.",
+    "description3": "Çerezler, kullanıcı deneyimini geliştirmek için kullanılır. Tarayıcı ayarlarından çerez kullanımını devre dışı bırakabilirsiniz.",
+    "note": "Bu politika zamanla güncellenebilir. Güncellemeleri düzenli olarak kontrol etmeniz önerilir."
+  },"terms": {
+    "title": "Kullanım Şartları",
+    "description1": "Bu web sitesini kullanarak aşağıdaki şartları kabul etmiş olursunuz. Lütfen dikkatlice okuyun.",
+    "description2": "Sağlanan tüm içerikler bilgilendirme amaçlıdır. Yanlış bilgi veya teknik sorunlardan doğacak sorumluluk kabul edilmez.",
+    "description3": "Kullanıcılar, hizmetleri yasalara ve ahlaka uygun şekilde kullanmakla yükümlüdür.",
+    "description4": "Web sitesi sahibi, içerikleri önceden haber vermeksizin değiştirme hakkını saklı tutar.",
+    "note": "Şartlar zamanla güncellenebilir. Güncellemeleri takip etmek kullanıcı sorumluluğundadır."
+  }
+}

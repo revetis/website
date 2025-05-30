@@ -1,0 +1,51 @@
+{
+  "Home": "Home",
+  "About": "About",
+  "Blog": "Blog",
+  "Contact": "Contact",
+  "Pages": "Pages",
+  "Contracts": "Contracts",
+  "Language": "Language",
+  "All rights reserved.": "All rights reserved.",
+  "Privacy Policy": "Privacy Policy",
+  "Terms of Service": "Terms of Service",
+   "about": {
+    "title": "About Me",
+    "intro": "I’m Revetis. A developer working in web development, game programming, and AI. Currently focused on Python, Django, React, and TypeScript. My goal is to build my own projects and live a free and productive life.",
+    "timeline_title": "My Journey",
+    "timeline": [
+      { "date": "End of 2024", "text": "Started learning Python." },
+      { "date": "Early 2025", "text": "Developed projects using Django, JavaScript, and React." },
+      { "date": "Spring 2025", "text": "Started my personal site and AI projects." }
+    ],
+    "skills_title": "Skills"
+  },"hero": {
+    "greeting": "Hello, I'm Revetis.",
+    "description": "I'm a software developer focused on web, game, and AI development.",
+    "projects_button": "My Projects"
+  }, "page_not_found": "Page Not Found", "Projects": "Projects",
+  "unknown_error": "Unknown error",
+  "retry": "Retry",
+  "error": "Error",
+  "no_projects": "No projects found yet.",
+  "project_image": "Project image",
+  "untitled_project": "Untitled project",
+  "no_description": "No description",
+  "view_project": "View Project",
+  "Details": "Details",
+  "view_source": "Source Code", "privacy": {
+    "title": "Privacy Policy",
+    "description1": "This website values user privacy. Collected data is used solely to improve the service.",
+    "description2": "Personal information is not shared with third parties without your consent. Your data is stored on secure servers.",
+    "description3": "Cookies are used to enhance user experience. You can disable cookies via your browser settings.",
+    "note": "This policy may be updated over time. It is recommended to check for updates regularly."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "description1": "By using this website, you agree to the following terms. Please read carefully.",
+    "description2": "All content provided is for informational purposes only. No responsibility is taken for incorrect information or technical issues.",
+    "description3": "Users are responsible for using the services legally and ethically.",
+    "description4": "The website owner reserves the right to change content without prior notice.",
+    "note": "These terms may be updated over time. It is the user's responsibility to follow updates."
+  }
+}
